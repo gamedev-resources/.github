@@ -10,7 +10,7 @@ Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt2-inventory-design/main/image/ui-pt-2.png" alt="Part 2: Design the Inventory UI" width="200"></a>
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model/main/image/ui-pt-3.png" alt="Part 3: Create the Inventory Data Model" width="200"></a>
 
-**[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | Parts 4-7 coming soon
+**[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | [Part 1 Repo](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) | [Part 2 Repo](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) | [Part 3 Repo](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) | Parts 4-7 coming soon
 
 ## Latest in AI
 
