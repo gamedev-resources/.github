@@ -2,8 +2,6 @@
 [![BlueSky](https://img.shields.io/badge/BlueSky-@yecats131-blue?logo=bluesky&logoColor=white)](https://bsky.app/profile/yecats131.bsky.social)
 [![X](https://img.shields.io/badge/X-@yecats131-black?logo=x&logoColor=white)](https://x.com/yecats131)
 
-Tutorials on game development, design, and art by [Stacey Haffner](https://www.youtube.com/@staceyhaffner). Each repo has the starter project, finished code, and resources for a specific video. Clone what you need and start building.
-
 ## Now Building
 
 Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You'll start from scratch with a reusable window system, design the full UI layout in UI Builder, wire up drag-and-drop item management, render a 3D character preview, and connect everything to player data. No prior UI Toolkit experience needed.
