@@ -6,28 +6,31 @@ Tutorials on game development, design, and art by [Stacey Haffner](https://www.y
 
 ## Now Building
 
+Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You'll start from scratch with a reusable window system, design the full UI layout in UI Builder, wire up drag-and-drop item management, render a 3D character preview, and connect everything to player data. No prior UI Toolkit experience needed.
+
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system/main/image/ui-pt-1.png" alt="Part 1: Reusable Window System" width="200"></a>
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt2-inventory-design/main/image/ui-pt-2.png" alt="Part 2: Design the Inventory UI" width="200"></a>
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model/main/image/ui-pt-3.png" alt="Part 3: Create the Inventory Data Model" width="200"></a>
 
-**[Build Inventory & Equipment Systems with Unity UI Toolkit](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** -- A beginner-friendly course covering reusable windows, UI layout, drag-and-drop, 3D character previews, and data binding. Parts 1-3 available, more coming soon.
+**[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | [Part 1 Repo](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) | [Part 2 Repo](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) | [Part 3 Repo](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) | Parts 4-7 coming soon
 
-## Latest
+## Latest in AI
 
 <a href="https://github.com/gamedev-resources/git-history-devlogs-github-agent-workflows"><img src="https://raw.githubusercontent.com/gamedev-resources/git-history-devlogs-github-agent-workflows/main/images/thumbnail.png" alt="Turn Your Git History into Devlogs" width="200"></a>
+<a href="https://www.youtube.com/watch?v=xdVTF_gUPNQ"><img src="https://raw.githubusercontent.com/gamedev-resources/.github/main/images/automate-unity-builds.png" alt="Automate Unity Build & Test with GitHub Copilot CLI" width="200"></a>
+<a href="https://www.youtube.com/watch?v=y0Z93nRgQG8"><img src="https://raw.githubusercontent.com/gamedev-resources/.github/main/images/10-copilot-tips-gamedev.png" alt="10 GitHub Copilot Tips for Game Developers" width="200"></a>
 
-**[Turn Your Git History into Devlogs with GitHub Agent Workflows](https://github.com/gamedev-resources/git-history-devlogs-github-agent-workflows)** -- Build a GitHub Agent Workflow that automatically drafts devlogs from your commits, PRs, and issues.
+## Legacy Tutorials
 
-## Browse by Topic
+Older tutorials hosted on this org. These were published before the YouTube channel but are still useful references.
 
 | Topic | Repos |
 | ----- | ----- |
-| **UI Toolkit** | [Inventory Course Pt 1](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system), [Pt 2](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design), [Pt 3](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model), [Runtime Inventory](https://github.com/gamedev-resources/create-a-runtime-inventory-with-UI-Toolkit), [Health Bars](https://github.com/gamedev-resources/create-healthbar-ui-toolkit), [Progress Bars](https://github.com/gamedev-resources/animate-runtime-progress-bars-UI-Toolkit), [Map System](https://github.com/gamedev-resources/create-a-map-system-with-ui-toolkit), [Spatial Inventory Pt 1](https://github.com/gamedev-resources/ui-toolkit-spatial-inventory-pt1), [Pt 2](https://github.com/gamedev-resources/ui-toolkit-spatial-inventory-pt2), [Custom Editor](https://github.com/gamedev-resources/ui-toolkit-custom-editor-fundamentals) |
+| **UI Toolkit** | [Runtime Inventory](https://github.com/gamedev-resources/create-a-runtime-inventory-with-UI-Toolkit), [Health Bars](https://github.com/gamedev-resources/create-healthbar-ui-toolkit), [Progress Bars](https://github.com/gamedev-resources/animate-runtime-progress-bars-UI-Toolkit), [Map System](https://github.com/gamedev-resources/create-a-map-system-with-ui-toolkit), [Spatial Inventory Pt 1](https://github.com/gamedev-resources/ui-toolkit-spatial-inventory-pt1), [Pt 2](https://github.com/gamedev-resources/ui-toolkit-spatial-inventory-pt2), [Custom Editor](https://github.com/gamedev-resources/ui-toolkit-custom-editor-fundamentals) |
 | **Input System** | [Configurable Camera](https://github.com/gamedev-resources/configurable-camera-with-the-new-Input-System), [Touch Input](https://github.com/gamedev-resources/implementing-touch-with-the-new-input-system), [C# Action Callbacks](https://github.com/gamedev-resources/listen-for-Input-System-events-via-CSharp), [Point & Click Movement](https://github.com/gamedev-resources/point-to-click-with-new-input-system) |
 | **AI** | [Behavior Trees](https://github.com/gamedev-resources/get-started-with-behavior-trees) |
 | **Addressables** | [Dynamic Loading](https://github.com/gamedev-resources/dynamically-load-with-addressables), [Remote Catalog](https://github.com/gamedev-resources/stream-content-remote-catalog-addressables) |
 | **Cloud Services** | [Player Data (Cloud Save)](https://github.com/gamedev-resources/store-player-data-cloud) |
-| **GitHub & Tooling** | [Agent Workflow Devlogs](https://github.com/gamedev-resources/git-history-devlogs-github-agent-workflows) |
 | **Getting Started** | [Unity Basics](https://github.com/gamedev-resources/getting-started-with-Unity), [Selection Logic](https://github.com/gamedev-resources/select-multiple-objects-based-on-center-of-collider), [Compass (uGUI)](https://github.com/gamedev-resources/create-a-compass-with-ugui) |
 
 ## About
