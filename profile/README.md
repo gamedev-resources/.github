@@ -12,7 +12,7 @@ Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You
 
 **[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | [Part 1 Repo](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) | [Part 2 Repo](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) | [Part 3 Repo](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) | Parts 4-7 coming soon
 
-## Latest in AI
+## Popular in AI
 
 <a href="https://github.com/gamedev-resources/git-history-devlogs-github-agent-workflows"><img src="https://raw.githubusercontent.com/gamedev-resources/git-history-devlogs-github-agent-workflows/main/images/thumbnail.png" alt="Turn Your Git History into Devlogs" width="200"></a>
 <a href="https://www.youtube.com/watch?v=xdVTF_gUPNQ"><img src="https://raw.githubusercontent.com/gamedev-resources/.github/main/images/automate-unity-builds.png" alt="Automate Unity Build & Test with GitHub Copilot CLI" width="200"></a>
