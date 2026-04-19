@@ -14,6 +14,7 @@ Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You
 
 ## Popular in AI
 
+<a href="https://github.com/gamedev-resources/unity-mcp-custom-tools-tutorial"><img src="https://raw.githubusercontent.com/gamedev-resources/unity-mcp-custom-tools-tutorial/main/image/Thumbnail.png" alt="How to Create Custom MCP Tools for Unity" width="200"></a>
 <a href="https://github.com/gamedev-resources/git-history-devlogs-github-agent-workflows"><img src="https://raw.githubusercontent.com/gamedev-resources/git-history-devlogs-github-agent-workflows/main/images/thumbnail.png" alt="Turn Your Git History into Devlogs" width="200"></a>
 <a href="https://www.youtube.com/watch?v=xdVTF_gUPNQ"><img src="https://raw.githubusercontent.com/gamedev-resources/.github/main/images/automate-unity-builds.png" alt="Automate Unity Build & Test with GitHub Copilot CLI" width="200"></a>
 <a href="https://www.youtube.com/watch?v=y0Z93nRgQG8"><img src="https://raw.githubusercontent.com/gamedev-resources/.github/main/images/10-copilot-tips-gamedev.png" alt="10 GitHub Copilot Tips for Game Developers" width="200"></a>
