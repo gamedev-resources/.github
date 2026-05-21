@@ -1,6 +1,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@staceyhaffner)
 [![BlueSky](https://img.shields.io/badge/BlueSky-@yecats131-blue?logo=bluesky&logoColor=white)](https://bsky.app/profile/yecats131.bsky.social)
 [![X](https://img.shields.io/badge/X-@yecats131-black?logo=x&logoColor=white)](https://x.com/yecats131)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@staceyhaffner)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/staceyhaff/)
 
 ## New Series: Build Inventory & Equipment Systems with Unity UI Toolkit
 
@@ -11,7 +13,7 @@ Build a complete inventory and equipment system in Unity 6 using UI Toolkit. You
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model/main/image/ui-pt-3.png" alt="Part 3: Create the Inventory Data Model" width="200"></a>
 <a href="https://github.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions"><img src="https://raw.githubusercontent.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions/main/image/ui-pt-4.png" alt="Part 4: Drag Items Between Inventory Slots" width="200"></a>
 
-**[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | [Part 1 Repo](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) | [Part 2 Repo](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) | [Part 3 Repo](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) | [Part 4 Repo](https://github.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions) | Parts 5-7 coming soon
+**[Watch the full playlist](https://www.youtube.com/playlist?list=PLUQd-0PkiOI5_msWheOHo-XnyEvQPLpbR)** | [Part 1 Repo](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) | [Part 2 Repo](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) | [Part 3 Repo](https://github.com/gamedev-resources/ui-toolkit-pt3-inventory-data-model) | [Part 4 Repo](https://github.com/gamedev-resources/ui-toolkit-pt4-inventory-interactions) | Parts 5-6 coming soon
 
 ## Popular in AI
 
