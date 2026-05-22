@@ -39,7 +39,7 @@ Older tutorials hosted on this org. These were published before the YouTube chan
 
 ## About
 
-I'm a self-taught developer and artist. I've built game services, run an indie studio, taught thousands of developers, and worked in developer advocacy. I make tutorials and breakdowns using Unity, Godot, Blender, GitHub Copilot, and whatever else gets the job done.
+I'm a Microsoft developer advocate, independent game developer, and mom. By day I focus on open source, AI, and developer tools at Microsoft. I've spent over a decade working on cool creator tech across Xbox, .NET, Unity, and more. By night (and on the weekends) I run an indie game studio and have been making and shipping games for just as long. I co-host Quest to Compile, a game developer podcast with my brother and make bi-weekly tutorials on game development.
 
 - **New videos**: [youtube.com/@staceyhaffner](https://www.youtube.com/@staceyhaffner)
 - **Legacy written tutorials**: [whatupgames.com/tutorials](https://www.whatupgames.com/tutorials)
