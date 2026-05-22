@@ -8,6 +8,7 @@ Each repository contains the source code for a specific tutorial. Clone only wha
 
 - **New content**: [youtube.com/@staceyhaffner](https://www.youtube.com/@staceyhaffner)
 - **Legacy written tutorials**: [whatupgames.com/tutorials](https://www.whatupgames.com/tutorials)
+- **Reddit**: [reddit.com/user/yecats131](https://www.reddit.com/user/yecats131/)
 
 ## Build Inventory & Equipment Systems with Unity UI Toolkit
 
