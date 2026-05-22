@@ -6,9 +6,7 @@ Each repository contains the source code for a specific tutorial. Clone only wha
 
 ## Where to find tutorials
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@staceyhaffner)
-[![Reddit](https://img.shields.io/badge/Reddit-Visit%20Profile-orange?logo=reddit&logoColor=white)](https://www.reddit.com/user/yecats131/)
-
+- **New content**: [youtube.com/@staceyhaffner](https://www.youtube.com/@staceyhaffner)
 - **Legacy written tutorials**: [whatupgames.com/tutorials](https://www.whatupgames.com/tutorials)
 
 ## Build Inventory & Equipment Systems with Unity UI Toolkit
